@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VladaGakovic
+- 👋 Hi, I’m @Vlada Gakovic
 - 👀 I’m interested in economics, sports, finance an IT
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Junior QA positions/intern
