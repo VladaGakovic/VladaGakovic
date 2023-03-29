@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vlada Gakovic
 - 👀 I’m interested in economics, sports, finance an IT
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Junior QA positions/intern
+- 💞️ I’m looking to collaborate on Junior QA, BI and DataAnalyst positions/intern
 - 📫 How to reach me ...vlada.gakovic.bba@gmail.com and +381692046799
 
 <!---
